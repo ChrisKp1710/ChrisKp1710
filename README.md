@@ -55,8 +55,8 @@ App nativa macOS per sviluppatori
 
 ## 📈 GitHub Stats
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=radical)
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKp1710&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisKp1710&layout=compact&theme=radical)
 
 ## 🌐 Dove trovarmi
 
